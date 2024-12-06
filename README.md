@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cat Rinno</title>
+    <>Bienvenue sur Cat Rinno le paradis des amoureux de la chat!</>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -32,7 +32,4 @@
         </ul>
     </section>
     <footer>
-        <p>&copy; 2024 CatForum. Tous droits réservés.</p>
-    </footer>
-</body>
-</html>
+        <p>&copy; 2024 Catrinno. Tous droits réservés.
