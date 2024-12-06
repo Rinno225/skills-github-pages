@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cat Rinno</title>
+    <>Bienvenue sur Cat Rinno</>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
         </nav>
     </header>
     <section id="home">
-        <h2>Bienvenue sur Cat R-INNO</h2>
+        <h2>Cat R-INNO</h2>
         <p>Un espace pour discuter, partager et apprendre sur nos amis, découvrez une nouvelle rencontre !</p>
     </section>
     <section id="categories">
